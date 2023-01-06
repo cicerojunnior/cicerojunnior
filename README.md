@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/cicerojunnior">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cicerojunnior&show_icons=true&theme=dracula&include_all_commits=true" >
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerojunnior&layout=compact&langs_count=10&theme=dracula" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cicerojunnior&show_icons=true&theme=dracula&include_all_commits=true" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicerojunnior&layout=compact&langs_count=10&theme=dracula" >
 </div>
 
 <div style="display: inline-block"><br>
