@@ -1,4 +1,4 @@
-### Olá! Eu sou Cícero Júnior, 
+### Olá, prazer! Eu sou Cícero Júnior
 
 - 🔭 Hoje eu estou em busca de uma oportunidade no mercado de front-end
 - 🌱 Graduado em Sistemas de Informação pela Universidade de Uberaba
