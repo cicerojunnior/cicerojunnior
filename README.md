@@ -1,4 +1,4 @@
-### Olá! Eu sou Cícero Júnior
+### Olá! Eu sou Cícero Júnior, graduado em Sistemas de Informação pela Universidade de Uberaba
 
 - 🔭 Hoje eu estou em busca de uma oportunidade no mercado de front-end
 - 🌱 Estudando Javascript com React 
