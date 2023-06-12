@@ -17,6 +17,7 @@
   <img align= "center" alt="CSS3" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
   <img align= "center" alt="JavaScript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
   <img align= "center" alt="React" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
+  <img align= "center" alt="Next" width="40" height="30" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" >
 </div>
   
 ##
